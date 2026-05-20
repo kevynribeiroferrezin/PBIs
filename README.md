@@ -151,4 +151,4 @@ Esses filtros afetam os KPIs, gráficos e tabela da página executiva, permitind
 - O PBIX foi criado no Power BI Service/Cloud e salvo com release `2026.03`.
 - O tema visual registrado no arquivo é `CY26SU02`.
 - O relatório contém recurso de imagem registrado em `Report/StaticResources/RegisteredResources`.
-- As medidas identificadas no layout são: `Receita Total`, `Faturamento Total`, `Faturamento Produtos`, `Lucro Total`, `Margem Lucro %`, `Ticket Médio`, `Qtd Vendas`, `Qtd Itens Vendidos`, `Crescimento Mês %` e `Crescimento KPI`.
+- As medidas do layout são: `Receita Total`, `Faturamento Total`, `Faturamento Produtos`, `Lucro Total`, `Margem Lucro %`, `Ticket Médio`, `Qtd Vendas`, `Qtd Itens Vendidos`, `Crescimento Mês %` e `Crescimento KPI`.
